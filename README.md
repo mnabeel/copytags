@@ -1,8 +1,7 @@
-# copyTags
+# CopyTags
 
 ## An easier way to copy tags from one resource group to another resource group
 
----
 
 The CopyTags.ps1 allows you to copy tags between resource groups. The source resource group is the resource group that we want the tags to be copied from and target resource group is the resource group that we intend the tag to be copied to.
 
